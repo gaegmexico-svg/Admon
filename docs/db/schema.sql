@@ -1,1 +1,1 @@
--- Base de datos ADMON
+-- ADMON schema
